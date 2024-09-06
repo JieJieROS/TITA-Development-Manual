@@ -9,13 +9,13 @@
 
 ---
 
-![tita](./_static/tita.png)
+![tita](./_static/logo.png)
 
 ## Installation 安装
 
 | Installation method | Supported platform[s] |                       Development Docs                       |
 | :-----------------: | :-------------------: | :----------------------------------------------------------: |
-|       Source        |  Yocto , ros-humble   | [TITA开发手册(Yocto)](https://vulcan-robot-architecture-doc.readthedocs.io/zh-cn/latest/index.html) |
+|       Source        |  Yocto , ros-humble   | [TITA开发手册(Yocto)](file:///home/czj/TITA-Development-Manual/build/html/index.html) |
 
 
 
